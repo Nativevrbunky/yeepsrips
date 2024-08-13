@@ -1,0 +1,23 @@
+using System;
+using UnityEngine;
+
+public class MapObjectRotatorHelper : MonoBehaviour
+{
+	[Serializable]
+	public struct RotationData
+	{
+		public string mapObjectKey;
+
+		public Vector3 rotationEulers;
+
+		public bool apply;
+	}
+
+	public KeyCode rotateKey;
+
+	public RotationData[] rotationDatas;
+
+	private float _005B_005B_005D_005B_005D_005B_005B_005D_005D_005B_005D_005B_005D_005B_005B_005B_005D_005D_005B_005B_005B_005B_005D_005B_005B_005B_005D_005B_005B_005B_005D_005D_005D_005B_005B_005D_005D_005D_005B_005B_005D_005B_005D_005D_005D_005B_005B;
+
+	private const float _005D_005B_005B_005D_005B_005B_005D_005B_005B_005B_005B_005B_005B_005D_005D_005D_005B_005D_005D_005B_005D_005B_005B_005B_005B_005D_005D_005D_005D_005B_005D_005B_005D_005D_005B_005D_005D_005D_005D_005D_005B_005B_005D_005B_005D_005B_005B = 1f;
+}

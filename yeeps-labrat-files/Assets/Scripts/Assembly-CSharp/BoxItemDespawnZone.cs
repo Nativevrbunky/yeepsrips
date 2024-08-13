@@ -1,0 +1,11 @@
+using UnityEngine;
+
+public class BoxItemDespawnZone : ItemDespawnZone
+{
+	public Vector3 size;
+
+	public override bool IsWithinZone(Vector3 _005D_005B_005B_005D_005B_005B_005B_005B_005D_005D_005D_005B_005B_005D_005B_005D_005B_005B_005D_005B_005B_005D_005B_005D_005B_005D_005D_005D_005B_005B_005B_005B_005B_005B_005D_005D_005B_005D_005D_005B_005B_005B_005B_005B_005B_005B_005B)
+	{
+		return false;
+	}
+}

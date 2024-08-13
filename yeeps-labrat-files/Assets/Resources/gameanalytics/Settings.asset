@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cced7019a5f5d9570f88fdc17461e50, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier:
+  TotalMessagesSubmitted: 0
+  TotalMessagesFailed: 0
+  DesignMessagesSubmitted: 0
+  DesignMessagesFailed: 0
+  QualityMessagesSubmitted: 0
+  QualityMessagesFailed: 0
+  ErrorMessagesSubmitted: 0
+  ErrorMessagesFailed: 0
+  BusinessMessagesSubmitted: 0
+  BusinessMessagesFailed: 0
+  UserMessagesSubmitted: 0
+  UserMessagesFailed: 0
+  CustomArea:
+  gameKey:
+  - 28efd208729ae46caf52f7d2124b1566
+  secretKey:
+  - 2b8c7d89a20e19043540a28a33a51923141d47ec
+  Build:
+  - 1.1.1b
+  SelectedPlatformOrganization:
+  - Trass Games
+  SelectedPlatformStudio:
+  - Trass Games
+  SelectedPlatformGame:
+  - 'Yeeps: Hide and Seek'
+  SelectedPlatformGameID:
+  - 273143
+  SelectedOrganization:
+  - 1
+  SelectedStudio:
+  - 1
+  SelectedGame:
+  - 1
+  NewVersion:
+  Changes:
+  SignUpOpen: 0
+  StudioName: TrassGames
+  GameName: 'Yeeps: Hide and Seek'
+  OrganizationName:
+  OrganizationIdentifier:
+  EmailGA: nathan@trassgames.com
+  IntroScreen: 0
+  InfoLogEditor: 1
+  InfoLogBuild: 1
+  VerboseLogBuild: 0
+  UseManualSessionHandling: 0
+  SendExampleGameDataToMyGame: 0
+  InternetConnectivity: 0
+  CustomDimensions01:
+  - VR
+  - mobile
+  CustomDimensions02: []
+  CustomDimensions03: []
+  ResourceItemTypes:
+  - techWebItem
+  - cosmeticItem
+  - buyAll
+  - mobile
+  - privateSandbox
+  - expandPrivateWorld
+  - ATM
+  - challenge
+  - currencyStash
+  - bundles
+  - promoCode
+  ResourceCurrencies:
+  - buttCoins
+  LastCreatedGamePlatform: -1
+  Platforms:
+  - 11
+  CurrentInspectorState: 1
+  ClosedHints: []
+  DisplayHints: 0
+  DisplayHintsScrollState: {x: 0, y: 0}
+  Logo: {fileID: 2800000, guid: 9d1515527c29b2246a07458957d1e22a, type: 3}
+  UpdateIcon: {fileID: 2800000, guid: 9e5b8a6af30a12942aa3ccda2f74d556, type: 3}
+  InfoIcon: {fileID: 2800000, guid: 67b49f0576535a74c8b52bca5ab49d3d, type: 3}
+  DeleteIcon: {fileID: 2800000, guid: 004cb6b5926a2d94ebcff11c52c9a027, type: 3}
+  GameIcon: {fileID: 2800000, guid: 8191c81526067a944a8968acd5de6f45, type: 3}
+  HomeIcon: {fileID: 2800000, guid: 7b3e3ae74e3c88b4c8dba188127d02a1, type: 3}
+  InstrumentIcon: {fileID: 2800000, guid: 8579e950267c83e438dacc081095ca61, type: 3}
+  QuestionIcon: {fileID: 2800000, guid: d2308be2b9d92af41931cbafbc3d4eb9, type: 3}
+  UserIcon: {fileID: 2800000, guid: 897b546f6aeb2ca4e9ab287635e9849d, type: 3}
+  AmazonIcon: {fileID: 0}
+  GooglePlayIcon: {fileID: 0}
+  iosIcon: {fileID: 0}
+  macIcon: {fileID: 0}
+  windowsPhoneIcon: {fileID: 0}
+  UsePlayerSettingsBuildNumber: 1
+  SubmitErrors: 0
+  NativeErrorReporting: 0
+  MaxErrorCount: 10
+  SubmitFpsAverage: 0
+  SubmitFpsCritical: 0
+  IncludeGooglePlay: 1
+  FpsCriticalThreshold: 20
+  FpsCirticalSubmitInterval: 1
+  PlatformFoldOut:
+  - 1
+  CustomDimensions01FoldOut: 1
+  CustomDimensions02FoldOut: 0
+  CustomDimensions03FoldOut: 0
+  ResourceItemTypesFoldOut: 1
+  ResourceCurrenciesFoldOut: 1
+  EnableMemoryHistogram: 0
+  EnableHealthEvent: 0
+  EnableFPSHistogram: 0
+  EnableSDKInitEvent: 0
+  EnableHardwareTracking: 0
+  EnableMemoryTracking: 0
